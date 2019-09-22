@@ -8,9 +8,6 @@ from pygame.compat import unichr_, unicode_
 import sys
 import locale
 
-# To-Do
-# Add Controls (Speed + -, Pause)
-
 file = fileinput.input("pygame.txt")    # READ the Textfile
 
 # '''CONTENT of pygame.txt'''
